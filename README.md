@@ -50,10 +50,10 @@ I’m looking for collaborate on combining software development, cloud technolog
 ![Cloud](https://skillicons.dev/icons?i=jenkins,github,linux,terraform)
 
 
-![Testing](https://skillicons.dev/icons?i=selenium)
+![Testing](https://skillicons.dev/icons?i=selenium) ![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow)
 
 
-![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow)
+
 
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
