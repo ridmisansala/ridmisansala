@@ -41,7 +41,7 @@ I’m looking for collaborate on combining software development, cloud technolog
 ![Languages](https://skillicons.dev/icons?i=java,python,js,ts,kotlin,go,c,cpp)
 
 
-![Development](https://skillicons.dev/icons?i=react,angular,spring,nodejs,maven,hibernate)
+![Development](https://skillicons.dev/icons?i=react,angular,spring,nodejs,maven,hibernate)![Languages](https://skillicons.dev/icons?i=flutter)
 
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
