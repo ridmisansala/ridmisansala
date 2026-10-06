@@ -47,7 +47,7 @@ I’m looking for collaborate on combining software development, cloud technolog
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
 
 
-![Cloud](https://skillicons.dev/icons?i=jenkins,github,linux,terraform)
+![Cloud](https://skillicons.dev/icons?i=jenkins,github,linux,terraform)![Languages](https://skillicons.dev/icons?i=net)
 
 
 ![Testing](https://skillicons.dev/icons?i=selenium) ![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow)
