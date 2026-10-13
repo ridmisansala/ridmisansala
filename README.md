@@ -30,7 +30,7 @@ I’m looking for collaborate on combining software development, cloud technolog
 
 ---
   
-- 📫 How to reach me: 🔗 LinkedIn: "Connect with me" (https://www.linkedin.com/ridmisansala)
+- 📫 How to reach me: 🔗 LinkedIn: "Connect with me" (https://www.linkedin.com/in/ridmisansala)
 
 
 
